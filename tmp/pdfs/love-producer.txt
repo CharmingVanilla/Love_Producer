@@ -1,0 +1,396 @@
+
+===== PAGE 1 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          The Contestant Profile contains three sections: Basic Traits, Relationships, and
+          Producer Trust.                                                         
+                                                                                  
+          Basic Traits represent the contestant’s core personality and generally remain
+                                                                                  
+          unchanged throughout the game. However, minor fluctuations may occur.   
+          Relationships and Producer Trust are dynamic values. They change based on
+          interactions between contestants and the player’s decisions as the producer. The
+          producer can only see the color bar but there are detailed figures documented in
+                                                                                  
+          the system.                                                             
+                                                                                  
+                                                                                  
+          Contestant Profile                                                      
+          ├─ Basic Traits                                                         
+          │ └─ color bar                                                          
+          ├─ Current State                                                        
+                                                                                  
+          │ └─ 1-2 temporary label                                                
+          ├─ Relationships                                                        
+          │ └─ Attractiveness / Interest / Trust color bar                        
+          └─ Producer Trust                                                       
+           └─ text                                                                
+                                                                                  
+                                                                                  
+          0–19：Very Low                                                           
+                                                                                  
+          20–39：Low                                                               
+          40–59：Moderate                                                          
+          60–79：High                                                              
+          80–100：Very High                                                        
+                                                                                  
+                                                                                  
+          Producer Trust：                                                         
+          Very Low：Hostile / Distrustful                                          
+          Low：Suspicious                                                          
+          Moderate：Cautious                                                       
+                                                                                  
+          High：Cooperative                                                        
+          Very High：Trusting                                                      
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 2 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+            ●                                                                     
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          Current  State                                                          
+                                                                                  
+                                                                                  
+          Current State represents a contestant’s temporary emotional condition. It changes after
+          important events and affects their next interaction or decision.        
+                                                                                  
+            ●  Calm: Emotionally stable and more likely to communicate normally and respond
+                                                                                  
+               rationally.                                                        
+            ●  Upset: Hurt or unhappy, making the contestant more likely to withdraw, act coldly, or
+               react negatively.                                                  
+            ●  Jealous: Feels threatened when someone they like becomes close to another
+                                                                                  
+               contestant. They may confront, compete, or interfere.              
+            ●  Embarrassed: Feels uncomfortable after rejection, failure, or an awkward moment.
+               They may avoid others or become less proactive.                    
+            ●  Excited: Feels positive after receiving a message, winning a challenge, or making
+               romantic progress. They are more likely to interact and move a relationship forward.
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          Basic Traits                                                            
+                                                                                  
+                                                                                  
+          Initiative                                                              
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 3 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          Determines how likely a contestant is to start conversations, ask someone on a date, send
+          messages, confess their feelings, or actively move a relationship forward.
+                                                                                  
+          It reflects how proactive they are, not how quickly they fall in love.  
+                                                                                  
+          Sincerity                                                               
+                                                                                  
+                                                                                  
+          Determines how genuine a contestant’s emotions and romantic intentions are.
+                                                                                  
+          It also affects how likely they are to perform for the cameras, hide their true feelings, or
+          manipulate a relationship for attention. Higher Sincerity makes the audience more likely to
+          believe their feelings are real.                                        
+                                                                                  
+          Emotional Stability                                                     
+                                                                                  
+                                                                                  
+          Determines how a contestant reacts to rejection, jealousy, conflict, public criticism, and
+          pressure from the show.                                                 
+                                                                                  
+          Contestants with low Emotional Stability are more likely to act impulsively, break down, or
+          create conflict. Contestants with high Emotional Stability are better at staying calm and
+                                                                                  
+          handling difficult situations.                                          
+                                                                                  
+          Possessiveness                                                          
+                                                                                  
+          Determines how strongly a contestant reacts when someone they like becomes close to
+          another person.                                                         
+                                                                                  
+          Higher Possessiveness increases the chance of jealousy, competition, controlling behavior,
+                                                                                  
+          and love-triangle conflict.                                             
+                                                                                  
+          Sociability                                                             
+                                                                                  
+          Determines how easily a contestant fits into the group, joins shared activities, and builds
+          friendships with other contestants.                                     
+                                                                                  
+                                                                                  
+          Show Sense                                                              
+                                                                                  
+          Determines how aware a contestant is of the cameras, public attention, and the rules of the
+          show.                                                                   
+                                                                                  
+          Contestants with high Show Sense are better at creating memorable scenes, dramatic
+                                                                                  
+          moments, and discussion-worthy content. High Show Sense does not automatically mean low
+          Sincerity.                                                              
+                                                                                  
+          Audience Appeal                                                         
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 4 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          Determines a contestant’s natural ability to attract viewers, gain fan support, and receive
+          positive public attention.                                              
+                                                                                  
+          Their actual public image is also affected by editing, behavior, romantic relationships, and
+          controversial events.                                                   
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          Relationship Chart                                                      
+                                                                                  
+                                                                                  
+          Each contestant has a separate Relationship Chart for every other contestant. It contains three
+          values: Attractiveness, Interest, and Trust.                            
+                                                                                  
+          Attractiveness                                                          
+                                                                                  
+          Represents how physically and personally appealing one contestant finds another.
+                                                                                  
+                                                                                  
+          It is mainly influenced by:                                             
+                                                                                  
+            ●  Physical preferences                                               
+            ●  Personal type preferences                                          
+            ●  First impressions                                                  
+            ●  Clothing and presentation                                          
+                                                                                  
+            ●  Date settings                                                      
+            ●  Special events                                                     
+                                                                                  
+          Attractiveness is usually established early and changes more slowly than the other
+          relationship values.                                                    
+                                                                                  
+                                                                                  
+          Interest                                                                
+                                                                                  
+          Represents how strongly a contestant wants to know, pursue, or spend more time with another
+          contestant.                                                             
+                                                                                  
+          It can be influenced by:                                                
+                                                                                  
+            ●  Daily conversations                                                
+            ●  Private dates                                                      
+                                                                                  
+            ●  The other person’s initiative                                      
+            ●  Romantic interactions                                              
+            ●  Shared interests                                                   
+            ●  New romantic competitors                                           
+                                                                                  
+            ●  Producer-created tasks and editing choices                         
+                                                                                  
+          Interest is usually the most frequently changing relationship value.    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 5 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          Trust                                                                   
+                                                                                  
+          Represents whether a contestant sees another contestant as honest, reliable, and emotionally
+          safe.                                                                   
+                                                                                  
+          It can be influenced by:                                                
+                                                                                  
+            ●  Keeping promises                                                   
+                                                                                  
+            ●  Sharing secrets                                                    
+            ●  Providing emotional support                                        
+            ●  Lying or hiding information                                        
+            ●  Defending someone during conflict                                  
+                                                                                  
+            ●  Flirting with multiple people at the same time                     
+                                                                                  
+          Trust affects deep conversations, secret-sharing, confession success, and final relationship
+          outcomes.                                                               
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          Producer  Trust                                                         
+                                                                                  
+          Each contestant has a separate Producer Trust value, representing how much they trust the
+                                                                                  
+          player and the production team. Producer Trust changes throughout the season and affects
+          how willing a contestant is to cooperate with the player’s decisions.   
+                                                                                  
+          Producer Trust increases when the player:                               
+                                                                                  
+            ●  Respects the contestant’s choices and personal boundaries          
+            ●  Treats contestants fairly                                          
+                                                                                  
+            ●  Arranges dates and activities that match their preferences         
+            ●  Gives fair and helpful interview guidance                          
+            ●  Keeps promises                                                     
+            ●  Supports them when their stress is high                            
+            ●  Protects them from unfair or harmful situations                    
+                                                                                  
+                                                                                  
+          Producer Trust decreases when the player:                               
+                                                                                  
+            ●  Repeatedly forces unwanted interactions                            
+            ●  Blocks or interferes with their messages                           
+            ●  Separates them from someone they genuinely like                    
+            ●  Uses misleading or harmful editing                                 
+                                                                                  
+            ●  Reveals private information                                        
+            ●  Pushes them into conflict for entertainment                        
+            ●  Clearly favors a specific contestant or couple                     
+            ●  Ignores their discomfort or personal boundaries                    
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+
+===== PAGE 6 =====
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+          Contestants with high Producer Trust are more likely to:                
+                                                                                  
+            ●  Reveal their true feelings during interviews                       
+            ●  Accept the player’s guidance                                       
+            ●  Cooperate with arranged conversations and activities               
+            ●  Stay longer in interactions created by the player                  
+                                                                                  
+            ●  Tolerate minor interventions                                       
+                                                                                  
+          Contestants with low Producer Trust may:                                
+                                                                                  
+            ●  Hide their true feelings                                           
+            ●  Refuse the player’s instructions                                   
+            ●  Leave forced conversations early                                   
+                                                                                  
+            ●  Return to their previous location after being moved                
+            ●  Ignore the player’s preferred pairing                              
+            ●  Act against the player’s plans                                     
+                                                                                  
+          This creates a balance between intervention and fairness. The player needs to influence
+                                                                                  
+          relationships to create an entertaining show, but excessive control can make contestants stop
+          cooperating.                                                            
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
+                                                                                  
